@@ -1,0 +1,8 @@
+name    'treydock-stdlib_ext'
+version '0.0.1'
+source 'git://github.com/treydock/puppet-stdlib_ext'
+author 'treydock'
+license 'Apache License, Version 2.0'
+summary 'puppet-stdlib_ext'
+description 'puppet-stdlib_ext'
+project_page 'http://github.com/treydock/puppet-stdlib_ext'
